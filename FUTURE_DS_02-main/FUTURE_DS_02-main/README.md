@@ -1,49 +1,63 @@
-# FUTURE_DS_02
+# 🟡 Task 02 – Campaign Performance Dashboard
 
-Social Media Campaign Performance Tracker (Task 2) – Future Intern
+## 📌 Project Overview
+This project analyzes digital marketing campaign performance and visualizes key marketing KPIs through an interactive dashboard.
 
-Status: In Progress
-Internship: Future Intern
+---
 
-📌 Overview
+## 🎯 Objective
+- Monitor campaign performance.
+- Analyze CTR and CVR.
+- Track CPC and CPM.
+- Evaluate campaign demographics.
+- Measure marketing spend efficiency.
 
-This project tracks and analyzes social media campaign performance using Excel and Power BI.
-It calculates and visualizes KPIs like CTR, CPC, CPM, CVR, and CPA, providing insights by date and demographics.
+---
 
-🛠 Tools
+## 📊 Dashboard Preview
 
-Microsoft Excel (data cleaning, KPI calculations, PivotTables)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechNarendra25/future-ds-internship-projects/main/FUTURE_DS_02-main/FUTURE_DS_02-main/task02_dashboard.png" width="900">
+</p>
 
-Power BI (interactive dashboard)
+---
 
-📊 Features
+## 📈 Key Insights
+- 📊 CTR & CVR Trend Analysis
+- 💸 CPC & CPM Performance Tracking
+- 👥 Demographic Analysis
+- 💰 Campaign Spend Monitoring
+- 📈 Marketing KPI Dashboard
 
-KPI computation and trend analysis
+---
 
-Daily performance tracking
+## 🛠️ Tools & Technologies
+- Power BI
+- Excel
+- Data Visualization
+- Marketing Analytics
 
-Demographics-based breakdown
+---
 
-Visual dashboards for quick insights
+## 📂 Files Included
+- `task02_dashboard.png`
+- `Tracker.xlsx`
+- `data.csv`
 
-📏 KPI Formulas
+---
 
-CTR (%) = (Clicks ÷ Impressions) × 100
-CPC = Spend ÷ Clicks
-CPM = (Spend ÷ Impressions) × 1000
-CVR (%) = (Conversions ÷ Clicks) × 100
-CPA = Spend ÷ Conversions
+## 🎯 Learning Outcomes
+✅ Marketing Analytics
 
-🚀 Current Progress
+✅ KPI Tracking
 
-Data cleaning & aggregation ✅
+✅ Dashboard Development
 
-KPI calculations ✅
+✅ Data Storytelling
 
-Dashboard draft ✅
+---
 
-Filters & advanced insights 🔄
+## 👨‍💻 Author
+**Narendra Vispute**
 
-🤝 Acknowledgement
-
-Thanks to Future Intern for the opportunity to work on this project and gain real-world campaign analysis experience.
+Aspiring Data Analyst | Data Science & AI/ML Enthusiast
