@@ -23,7 +23,7 @@ Analyze sales performance and create an interactive dashboard for business insig
 ### 📷 Dashboard
 
 <p align="center">
-  <img src="images/task01_dashboard.png" width="900">
+  <img src="images/FUTURE_DS_01-main/FUTURE_DS_01-main/E-Commerce Sales Data Dashbord_T1.png" width="900">
 </p>
 
 ### 🔍 Key Insights
