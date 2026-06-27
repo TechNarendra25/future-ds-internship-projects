@@ -160,7 +160,7 @@ future-ds-internship-projects
 
 🚀 Passionate about transforming data into actionable insights.
 
-📍 Indore, India
+📍 Mumbai, India
 
 🔗 GitHub: https://github.com/TechNarendra25
 
